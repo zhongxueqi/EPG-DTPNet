@@ -65,7 +65,7 @@ python EPG-DTPNet.py
 ```
 EPG-DTPNet/
 ├── 01-VMD_DualBranch_Vec2Seq16.py    # Main script: full training & evaluation pipeline
-├── requirements.txt                  # Full dependency list with version locks
+├── Results.zip                        # Calculation results
 └── README.md                         # Project documentation
 ```
 
