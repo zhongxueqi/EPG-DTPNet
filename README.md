@@ -64,7 +64,7 @@ python EPG-DTPNet.py
 ## 📁 Project Structure
 ```
 EPG-DTPNet/
-├── 01-VMD_DualBranch_Vec2Seq16.py    # Main script: full training & evaluation pipeline
+├── EPG-DTPNet.py                      # Main script: full training & evaluation pipeline
 ├── Results.zip                        # Calculation results
 └── README.md                         # Project documentation
 ```
